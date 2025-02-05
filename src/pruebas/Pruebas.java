@@ -20,6 +20,10 @@ public class Pruebas {
         
         System.out.println("holaaa");
         System.out.println("si esto es una prueba ");
+        
+        Tabla tb = new Tabla ();
+        
+        tb.setVisible(true);
     }
     
 }
